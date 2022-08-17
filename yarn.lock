@@ -1146,7 +1146,7 @@
   resolved "https://registry.yarnpkg.com/@vercel/node-bridge/-/node-bridge-3.0.0.tgz#443655b74713ec65531726fb5a30c5c528c804bf"
   integrity sha512-TNQK6cufwrhd8ASDk5YHHenH8Xhp9sY8xUjOTKnQQI37KLk+Sw2HlHhT5rzUFN23ahosUlkY8InwtYUmSNb9kw==
 
-"@vercel/node@2.5.8":
+"@vercel/node@2.5.8", "@vercel/node@^2.5.8":
   version "2.5.8"
   resolved "https://registry.yarnpkg.com/@vercel/node/-/node-2.5.8.tgz#c322d852599c561f67e9516ad6ed5711bbba3971"
   integrity sha512-LzS2NAbz85CJUxw8RbWnPV8U8O9/D6r35s4scXP94yz4xgysW0ErlhLSBUfl0uTLhOEjjcm+OMcvWR63p6z+Gw==
